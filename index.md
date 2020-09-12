@@ -1,6 +1,3 @@
-# Looking For Group (LFG)
-___
-
 Do you play tabletop games or video games, but never have enough people consistently participating? Introducing LFG, Looking For Group. LFG acts as a group finder for games of all types, where you can browse through profiles and match with them for your party. You can put your schedule you are available, a bio of your character, and much more to begin looking for your group. Once a group is formed you will have a private announcement board for the group and information about all your party members available. Ideally, users can upload their character's picture or even create a character within the app.
 
 ## Features:
