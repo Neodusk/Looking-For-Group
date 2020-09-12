@@ -1,0 +1,19 @@
+{
+  "name": "looking-for-group",
+  "version": "1.0.0",
+  "description": "A group finding platform for tabletop and video games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neodusk/Looking-For-Group.git"
+  },
+  "author": "Haley Tortorich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neodusk/Looking-For-Group/issues"
+  },
+  "homepage": "https://github.com/Neodusk/Looking-For-Group#readme"
+}
