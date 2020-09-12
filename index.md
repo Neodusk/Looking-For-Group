@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Looking For Group (LFG)
+___
 
-You can use the [editor on GitHub](https://github.com/Neodusk/Looking-For-Group/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Do you play tabletop games or video games, but never have enough people consistently participating? Introducing LFG, Looking For Group. LFG acts as a group finder for games of all types, where you can browse through profiles and match with them for your party. You can put your schedule you are available, a bio of your character, and much more to begin looking for your group. Once a group is formed you will have a private announcement board for the group and information about all your party members available. Ideally, users can upload their character's picture or even create a character within the app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features:
+- Expert leveling system:
+    - Level up as you prove your knowledge of the game
+    - Once a high enough level, can volunteer for assisting beginners and get perks for doing so
+    - Gain points for buying and trading of character cosmetics
+- Announcement boards
+    - Keep a brief announcement board for all teammates to see
+- Calendar/ Scheduling
+    - Google calendar integration
+- Discord integration
+    - Discord bot as well?
+- Roll20 integration
+- Take a personality quiz and match with gamers of similar or compatible play style
+- Character creation in app
+- Roleplaying biography
+- Real biography
+- Alias name
+- Location based preferences
+- 2D based world where players can trade cosmetics for created character
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neodusk/Looking-For-Group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Implementation:
+- Docker
+- React.js
+- Node.js
+- MongoDB
+- Webhooks for mobile application
